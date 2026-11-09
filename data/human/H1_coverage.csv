@@ -1,0 +1,13 @@
+grouping,stratum,selected_n,two_reviews_n,adjudication_n,valid_reference_n,unresolved_n,human_positive_n,human_negative_n
+overall,all,480,480,145,480,0,243,237
+dataset,hotpotqa,160,160,48,160,0,74,86
+dataset,pubmedqa,160,160,48,160,0,74,86
+dataset,squad,160,160,49,160,0,95,65
+generator,ministral3_8b,252,252,77,252,0,153,99
+generator,qwen3_8b,228,228,68,228,0,90,138
+corpus,distribution_v1_hotpotqa_ministral3_8b,80,80,27,80,0,45,35
+corpus,distribution_v1_hotpotqa_qwen3_8b,80,80,21,80,0,29,51
+corpus,distribution_v1_pubmedqa_ministral3_8b,92,92,30,92,0,53,39
+corpus,distribution_v1_pubmedqa_qwen3_8b,68,68,18,68,0,21,47
+corpus,ministral3_8b,80,80,20,80,0,55,25
+corpus,qwen3_8b,80,80,29,80,0,40,40

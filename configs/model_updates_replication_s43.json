@@ -1,0 +1,23 @@
+{
+  "experiment_id": "model_updates_replication_v1_qwen_hotpot_s43",
+  "base_model": "Qwen/Qwen3-8B",
+  "base_revision": "b968826d9c46dd6066d109eabc6255188de91218",
+  "dataset": "hotpotqa/hotpot_qa",
+  "dataset_config": "distractor",
+  "dataset_revision": "1908d6afbbead072334abe2965f91bd2709910ab",
+  "train_samples": 2000,
+  "dev_samples": 200,
+  "steps": 300,
+  "checkpoints": [
+    50,
+    150,
+    300
+  ],
+  "rank": 8,
+  "alpha": 16,
+  "learning_rate": 0.0001,
+  "warmup_steps": 10,
+  "gradient_accumulation": 4,
+  "max_sequence_tokens": 768,
+  "seed": 43
+}

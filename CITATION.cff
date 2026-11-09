@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the papers below."
+title: "Internal-State Hallucination Detection: Code and Data"
+authors:
+  - family-names: Salehmohamed
+    given-names: Shoaib Sadiq
+    affiliation: "Keshav Memorial Institute of Technology"
+  - family-names: Thakkar
+    given-names: Jinal Prashant
+    affiliation: "Keshav Memorial Institute of Technology"
+  - family-names: Aredla
+    given-names: Hansika
+    affiliation: "Keshav Memorial Institute of Technology"
+  - family-names: Omar
+    given-names: Shaik Mohammed
+    affiliation: "Keshav Memorial Institute of Technology"
+  - family-names: Bera
+    given-names: Naveen
+    affiliation: "Keshav Memorial Institute of Technology"
+  - family-names: Nikhila
+    given-names: Pulijala Sai
+    affiliation: "Keshav Memorial Institute of Technology"
+  - family-names: Abhiram
+    given-names: Kondaguduru
+    affiliation: "Keshav Memorial Institute of Technology"
+  - family-names: Ali
+    given-names: Shaik Gayaz
+    affiliation: "Keshav Memorial Institute of Technology"
+  - family-names: Ayachit
+    given-names: Shalmali
+    affiliation: "Keshav Memorial Institute of Technology"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations"
+  authors:
+    - family-names: Salehmohamed
+      given-names: Shoaib Sadiq
+    - family-names: Thakkar
+      given-names: Jinal Prashant
+    - family-names: Aredla
+      given-names: Hansika
+    - family-names: Omar
+      given-names: Shaik Mohammed
+    - family-names: Ayachit
+      given-names: Shalmali
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2604.06277"

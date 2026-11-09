@@ -1,0 +1,17 @@
+generator,probe,gap_pooled,gap_within
+Ministral Base->Instruct,M0,-0.047,-0.011
+Ministral Base->Instruct,M1,-0.055,-0.032
+Ministral Base->Instruct,M2,-0.128,-0.054
+Ministral Base->Instruct,M3,-0.163,-0.114
+Ministral Base->Instruct,M4,-0.054,-0.018
+Ministral Base->Instruct,last_linear,-0.066,-0.065
+Ministral Base->Instruct,last_mlp,-0.018,-0.003
+Ministral Base->Instruct,mean_linear,-0.06,-0.057
+Qwen3->Base,M0,-0.014,0.023
+Qwen3->Base,M1,0.001,0.046
+Qwen3->Base,M2,-0.051,-0.003
+Qwen3->Base,M3,0.002,0.044
+Qwen3->Base,M4,0.039,0.075
+Qwen3->Base,last_linear,0.035,0.039
+Qwen3->Base,last_mlp,0.022,0.053
+Qwen3->Base,mean_linear,-0.045,-0.041
