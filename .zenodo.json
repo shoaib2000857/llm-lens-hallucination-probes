@@ -3,8 +3,8 @@
   "upload_type": "software",
   "description": "<p>Code, configurations and released data for studies of hallucination probes that read the hidden states of large language models (Qwen3-8B and Ministral-3-8B): weakly supervised training with a three-judge LLM panel, probe architectures M0&ndash;M4 and simple controls, transfer to four further QA datasets, a 480-response blinded human reference study, durability under same-family model replacement and LoRA updates, and recovery by recalibration, source-initialized refitting and unlabeled alignment.</p><p>Contents: source code and experiment configurations; generated responses with questions and gold answers (source passages not redistributed); judge verdicts and consensus labels; de-identified human references; output probabilities of every reported probe fit; derived result tables; analysis and figure scripts.</p><p>Licences: code MIT; labels, human references, predictions and results CC BY 4.0; response files CC BY-SA 4.0 (inherited from SQuAD 2.0, HotpotQA and Natural Questions). See DATA_LICENSE.md.</p>",
   "creators": [
-    {"name": "Salehmohamed, Shoaib Sadiq", "affiliation": "Keshav Memorial Institute of Technology"},
-    {"name": "Thakkar, Jinal Prashant", "affiliation": "Keshav Memorial Institute of Technology"},
+    {"name": "Salehmohamed, Shoaib Sadiq", "affiliation": "Keshav Memorial Institute of Technology", "orcid": "0009-0004-6332-0236"},
+    {"name": "Thakkar, Jinal Prashant", "affiliation": "Keshav Memorial Institute of Technology", "orcid": "0009-0002-1595-618X"},
     {"name": "Aredla, Hansika", "affiliation": "Keshav Memorial Institute of Technology"},
     {"name": "Shaik Mohammed, Omar", "affiliation": "Keshav Memorial Institute of Technology"},
     {"name": "Bera, Naveen", "affiliation": "Keshav Memorial Institute of Technology"},

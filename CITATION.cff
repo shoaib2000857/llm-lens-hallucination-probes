@@ -4,9 +4,11 @@ title: "Internal-State Hallucination Detection: Code and Data"
 authors:
   - family-names: Salehmohamed
     given-names: Shoaib Sadiq
+    orcid: "https://orcid.org/0009-0004-6332-0236"
     affiliation: "Keshav Memorial Institute of Technology"
   - family-names: Thakkar
     given-names: Jinal Prashant
+    orcid: "https://orcid.org/0009-0002-1595-618X"
     affiliation: "Keshav Memorial Institute of Technology"
   - family-names: Aredla
     given-names: Hansika
@@ -36,8 +38,10 @@ preferred-citation:
   authors:
     - family-names: Salehmohamed
       given-names: Shoaib Sadiq
+      orcid: "https://orcid.org/0009-0004-6332-0236"
     - family-names: Thakkar
       given-names: Jinal Prashant
+      orcid: "https://orcid.org/0009-0002-1595-618X"
     - family-names: Aredla
       given-names: Hansika
     - family-names: Shaik Mohammed
