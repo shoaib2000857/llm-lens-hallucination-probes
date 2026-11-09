@@ -1,5 +1,7 @@
 # Internal-State Hallucination Detection: Code and Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24081563.svg)](https://doi.org/10.5281/zenodo.24081563)
+
 **LLM Lens, Keshav Memorial Institute of Technology, Hyderabad**
 
 Code, configurations and released data for:
@@ -50,4 +52,4 @@ The analysis scripts in `analysis/` read saved predictions and labels. Edit the 
 
 ## Citation
 
-See `CITATION.cff`.
+Code and data: Salehmohamed et al. (2026), *Internal-State Hallucination Detection: Code and Data*, Zenodo, https://doi.org/10.5281/zenodo.24081563 (always resolves to the latest version). For the papers, see `CITATION.cff`.
