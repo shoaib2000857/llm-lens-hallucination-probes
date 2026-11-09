@@ -11,20 +11,20 @@ authors:
   - family-names: Aredla
     given-names: Hansika
     affiliation: "Keshav Memorial Institute of Technology"
-  - family-names: Omar
-    given-names: Shaik Mohammed
+  - family-names: Shaik Mohammed
+    given-names: Omar
     affiliation: "Keshav Memorial Institute of Technology"
   - family-names: Bera
     given-names: Naveen
     affiliation: "Keshav Memorial Institute of Technology"
-  - family-names: Nikhila
-    given-names: Pulijala Sai
+  - family-names: Pulijala Sai
+    given-names: Nikhila
     affiliation: "Keshav Memorial Institute of Technology"
-  - family-names: Abhiram
-    given-names: Kondaguduru
+  - family-names: Kondaguduru
+    given-names: Abhiram
     affiliation: "Keshav Memorial Institute of Technology"
-  - family-names: Ali
-    given-names: Shaik Gayaz
+  - family-names: Shaik Gayaz
+    given-names: Ali
     affiliation: "Keshav Memorial Institute of Technology"
   - family-names: Ayachit
     given-names: Shalmali
@@ -40,8 +40,8 @@ preferred-citation:
       given-names: Jinal Prashant
     - family-names: Aredla
       given-names: Hansika
-    - family-names: Omar
-      given-names: Shaik Mohammed
+    - family-names: Shaik Mohammed
+      given-names: Omar
     - family-names: Ayachit
       given-names: Shalmali
   year: 2026
